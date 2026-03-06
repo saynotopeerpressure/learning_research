@@ -2,11 +2,11 @@
 
 ## 第一阶段
 
-学习基础的3D computer vision知识。这个阶段追求广度，了解一些基础的概念和算法。不要求深度，不要求掌握/熟悉算法所有的细节。这个阶段的目的是让你对3D computer vision有一个大概的了解，知道有哪些算法，知道这些算法的大概原理，知道这些算法的应用场景。
+学习基础的深度学习知识。这个阶段追求广度，了解一些基础的概念和算法。不要求深度，不要求掌握/熟悉算法所有的细节。这个阶段的目的是让你对深度学习有一个大概的了解，知道有哪些算法，知道这些算法的大概原理，知道这些算法的应用场景。
 
-学习《三维计算机视觉导论》课程。重点是完成里面的作业。懂得做作业，也就懂课程内容了。建议在GitHub上维护一个repo，存放作业。
+学习《Deep Learning for Computer Vision》课程。重点是完成里面的作业。懂得做作业，也就懂课程内容了。建议在GitHub上维护一个repo，存放作业。
 
-推荐的课程是Andreas Geiger教授的课程。这是[课程链接](https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/autonomous-vision/lectures/computer-vision/)。（这门课是目前较新的公开的三维视觉课。以后会根据情况决定是否添加其他课程。）
+推荐的课程是Andrej Karpathy教授的课程。这是[课程链接](https://web.eecs.umich.edu/~justincj/teaching/eecs498/WI2022/schedule.html)。
 
 如果对哪些算法或哪些代码有问题，推荐谷歌搜索或者问new bing，如果找不到答案，建议敢于向高年级学长/学姐询问。
 
