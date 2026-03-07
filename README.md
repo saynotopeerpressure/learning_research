@@ -1,4 +1,4 @@
-<img width="600" height="115" alt="image" src="https://github.com/user-attachments/assets/13f74cbe-5dd6-4073-966c-13acfe5f1ea3" /># Learning Research
+# Learning Research
 
 ## Motivation of This Repository
 
